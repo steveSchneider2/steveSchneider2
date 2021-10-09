@@ -12,10 +12,11 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Logo" width="60" height="50" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50" />
-<br/>
-<img align="left" src="https://i0.wp.com/2.bp.blogspot.com/-Alklx2Guuz8/XJgQeQ6YCaI/AAAAAAAAK-U/RmQQyzY5oRI-e4qpXD1elxCyaO_RGRmHwCLcBGAs/s1600/1200px-Spyder_logo.svg.png?ssl=1" alt="SPYDER Logo" width="50" height="50" />
+
+<img align="left" src="https://avatars1.githubusercontent.com/u/1284937?s=280&v=4" alt="SPYDER Logo" width="45" height="45" />
 <img align="left" src="https://i.imgur.com/f5M1VWO.png" alt="Python Logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="50" height="50" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="50" height="50" />
+<img src="https://docs.anaconda.com/_images/Navigator_Launchpad_icon.png" alt="Anaconda Logo" width="50" height="50" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveschneider2&hide=html)](https://github.com/steveSchneider2/github-readme-stats)
 
