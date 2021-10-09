@@ -1,5 +1,5 @@
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Steve Schneider
-<img align="right" src="https://github.com/steveSchneider2/Machine-Learning/blob/main/Figure2%20accuracyLearningCurves.png" alt="Coder GIF" height="400">
+<img align="right" src="https://github.com/steveSchneider2/DeepLearning/blob/main/Figure2%20accuracyLearningCurves.png" alt="Coder GIF" height="400">
 <hr/>
 ###With a deep SQL background, focused on ML<br />
 - 👀 I’m interested in Machine Learning<br />
