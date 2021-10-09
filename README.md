@@ -9,9 +9,9 @@
 
 ## My Skill Set  
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Logo" width="60" height="50" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50" />
+<img src="https://issues.streamsets.com/secure/attachment/14575/sql-server.png" alt="SQL Logo" width="50" height="50" />
 
 <img align="left" src="https://avatars1.githubusercontent.com/u/1284937?s=280&v=4" alt="SPYDER Logo" width="45" height="45" />
 <img align="left" src="https://i.imgur.com/f5M1VWO.png" alt="Python Logo" width="50" height="50" />
@@ -25,4 +25,5 @@
 <!---
 steveSchneider2/steveSchneider2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Logo" width="60" height="50" />
 --->
