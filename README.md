@@ -9,7 +9,6 @@
 
 ## My Skill Set  
 <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fcaribbean-blue%2Fgithub-11-xxl.png&f=1&nofb=1" alt="GitHub" width="50" height="50" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure Logo" width="50" height="50" />
 <img src="https://issues.streamsets.com/secure/attachment/14575/sql-server.png" alt="SQL Logo" width="50" height="50" />
